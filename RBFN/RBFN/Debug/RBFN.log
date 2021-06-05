@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\ashra\OneDrive\Graduation work\RBFN-Diploma-Work\RBFN\RBFN\Source.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ashra\OneDrive\Graduation work\RBFN-Diploma-Work\RBFN\RBFN\Source.cpp(68,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ashra\OneDrive\Graduation work\RBFN-Diploma-Work\RBFN\RBFN\Source.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ashra\OneDrive\Graduation work\RBFN-Diploma-Work\RBFN\RBFN\Source.cpp(87,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ashra\OneDrive\Graduation work\RBFN-Diploma-Work\RBFN\RBFN\Source.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ashra\OneDrive\Graduation work\RBFN-Diploma-Work\RBFN\RBFN\Source.cpp(197,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ashra\OneDrive\Graduation work\RBFN-Diploma-Work\RBFN\RBFN\Source.cpp(292,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RBFN.vcxproj -> C:\Users\ashra\OneDrive\Graduation work\RBFN-Diploma-Work\RBFN\Debug\RBFN.exe
